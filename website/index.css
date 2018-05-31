@@ -1,0 +1,24 @@
+body{
+    background:rgb(181, 72, 72);
+}
+
+#title{
+    margin-top:1%;
+    text-align:center;
+    font-family: 'Lobster', cursive;
+    font-size: 7em;
+    color: rgb(224, 224, 224);
+}
+
+#search-submit{
+    float:left;
+    margin-top: 7%;
+    margin-left: 20%;
+    width:10%;
+}
+
+#search-input{
+    margin-top:8.5%;
+    font-size: 400%;
+    border-radius:0px 25px 25px 0px;
+}
